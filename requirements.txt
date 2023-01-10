@@ -8,7 +8,6 @@ attrs==22.1.0
 beautifulsoup4==4.11.1
 bitarray==2.6.0
 cachetools==5.1.0
-certifi @ file:///croot/certifi_1665076670883/work/certifi
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
