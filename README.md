@@ -1,4 +1,3 @@
-# VQA
 # A Baseline for Toloka Visual Question Answering Challenge at WSDM Cup 2023
 
 **Task**: Given an image and a textual question, draw the bounding box around the object correctly responding to that question.
