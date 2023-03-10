@@ -1,4 +1,4 @@
-# A Baseline for Toloka Visual Question Answering Challenge at WSDM Cup 2023
+# A Baseline for Toloka Visual Question Answering Challenge at WSDM Cup 2023 (6th)
 
 **Task**: Given an image and a textual question, draw the bounding box around the object correctly responding to that question.
 
@@ -15,7 +15,7 @@
 ## Configuration
 
 ```
-install Docker. See the <a href="https://docs.docker.com/engine/install/">link</a>
+install Docker. See https://docs.docker.com/engine/install/
 
 docker pull haoyuzhang6/wsdm2023:latest
 
